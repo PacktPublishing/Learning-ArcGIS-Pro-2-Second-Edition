@@ -1,0 +1,1 @@
+ACRE_DEEDE > 1 And ACRE_DEEDE < 3 And (ZONING = 'GC' Or ZONING = 'GC-S' Or ZONING = 'CBD')
