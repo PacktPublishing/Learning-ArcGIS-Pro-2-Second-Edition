@@ -1,0 +1,22 @@
+<ImportMXDLog>	<Messages>
+		<FileName>E:\GIS\Rochester\Quarry\QuarryProject.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Layer uses unsupported dynamic hillshade illumination</Description>
+			<Code>23</Code>
+			<ComponentName>quarry_DEM</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>High</Severity>
+			<Description>Basemap Layers cannot be published directly to a service</Description>
+			<Code>37</Code>
+			<ComponentName>Basemap</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>
